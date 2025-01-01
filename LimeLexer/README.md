@@ -1,4 +1,4 @@
-# Episode 1 - Lexer Foundation
+# Episode 1 - Lexer
 1. Create the C# Console App and create a Lexer.cs class
 2. Lexer.cs
 	- Setup all class properties
