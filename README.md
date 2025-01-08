@@ -9,7 +9,8 @@ seperate projects in the main folder
 
 The remaining episodes of the series will focus more closely on the LLVM JIT Compiler for this language using LLVMSharp.
 - LimeCompiler
-  - Episode 1: Compiling Expressions + Arithmetic Operations
+  - Episode 1: Compiler Setup + Compiling Expressions + Arithmetic Operations
+      - `+ - * / % ^`
   - Episode 2: To Be Continued
 
 ## Youtube Series
